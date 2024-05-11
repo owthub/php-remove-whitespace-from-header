@@ -1,0 +1,1 @@
+# php-remove-whitespace-from-header
